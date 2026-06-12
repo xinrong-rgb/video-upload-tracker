@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-Hant"><head><title>影片掛網進度追蹤</title><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root{--ok:#2e7d32;--warn:#b58900;--slow:#e65100;--late:#c62828;
+--ok-bg:#e8f5e9;--warn-bg:#fff8e1;--slow-bg:#fff3e0;--late-bg:#ffebee;}
+*{box-sizing:border-box}
+body{font-family:"PingFang TC","Microsoft JhengHei",sans-serif;margin:0;background:#f5f6f8;color:#263238;}
+.wrap{max-width:1000px;margin:0 auto;padding:24px 16px 60px;}
+h1{font-size:26px;margin:8px 0 2px}
+.sub{color:#78909c;font-size:13px;margin-bottom:18px}
+.cards{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+.card{flex:1;min-width:140px;background:#fff;border-radius:12px;padding:14px 18px;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+.card .n{font-size:30px;font-weight:700}.card .t{font-size:13px;color:#78909c}
+.card.red .n{color:var(--late)}.card.green .n{color:var(--ok)}.card.blue .n{color:#1565c0}
+.alertbox{background:var(--late-bg);border:2px solid var(--late);border-radius:12px;padding:14px 20px;margin-bottom:18px}
+.alertbox h2{margin:0 0 8px;font-size:17px;color:var(--late)}
+.alertbox ul{margin:0 0 6px;padding-left:20px}.alertbox p{margin:0;font-size:13px;color:var(--late)}
+h2.sec{font-size:18px;margin:26px 0 10px}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+th{background:#37474f;color:#fff;font-size:13px;padding:10px 12px;text-align:left;white-space:nowrap}
+td{padding:10px 12px;font-size:14px;border-top:1px solid #eceff1}
+tr.lv-ok{background:var(--ok-bg)}tr.lv-warn{background:var(--warn-bg)}
+tr.lv-slow{background:var(--slow-bg)}tr.lv-late{background:var(--late-bg)}
+td.id{font-weight:700;white-space:nowrap}
+td.num{text-align:center}
+.badge{display:inline-block;min-width:52px;text-align:center;padding:3px 10px;border-radius:99px;color:#fff;font-weight:700;font-size:13px}
+.badge.ok{background:var(--ok)}.badge.warn{background:var(--warn)}
+.badge.slow{background:var(--slow)}.badge.late{background:var(--late)}
+.wdtag{background:#1565c0;color:#fff;border-radius:4px;font-size:11px;padding:1px 6px;margin-left:6px;vertical-align:1px}
+.alarm{color:var(--late);font-size:12px;font-weight:700}
+.pend{color:#e65100;font-weight:700}
+.empty{text-align:center;color:#90a4ae;padding:22px}
+.legend{margin-top:14px;font-size:13px;color:#546e7a}
+.legend .badge{min-width:auto;margin:0 2px}
+</style></head>
+<body><div class="wrap">
+<h1>📡 影片掛網進度追蹤</h1>
+<div class="sub">資料來源：admin@hwadzan.com（amtbwork 工作進度通知信）｜最後更新：2026-06-12 21:57｜天數均為工作天（不含六、日）</div>
+<div class="cards">
+<div class="card blue"><div class="n">1</div><div class="t">待掛網</div></div>
+<div class="card red"><div class="n">0</div><div class="t">WD 逾期警示</div></div>
+<div class="card green"><div class="n">1</div><div class="t">已掛網完成</div></div>
+</div>
+
+<h2 class="sec">⏳ 待掛網（驗檔完成、尚未掛網）</h2>
+<table><thead><tr><th>編號</th><th>標題</th><th>驗檔完成</th><th>掛網狀態</th><th>已經過</th><th>分級</th></tr></thead>
+<tbody><tr class="lv-ok"><td class="id">68-012-0019</td><td>現代因果報應錄</td><td>2026-06-11 11:42</td><td><span class="pend">⏳ 待掛網</span></td><td class="num"><span class="badge ok">1 天</span></td><td>正常</td></tr></tbody></table>
+<h2 class="sec">✅ 已完成（驗檔 → 掛網）</h2>
+<table><thead><tr><th>編號</th><th>標題</th><th>驗檔完成</th><th>掛網完成</th><th>耗時</th><th>分級</th></tr></thead>
+<tbody><tr class="lv-ok"><td class="id">WD32-007-0561<span class="wdtag">WD</span></td><td>悟道法師晨間講話</td><td>2026-06-11 11:37</td><td>✅ 2026-06-12 13:56</td><td class="num"><span class="badge ok">1 天</span></td><td>正常</td></tr></tbody></table>
+<div class="legend">分級標準（工作天）：
+<span class="badge ok">≤2 天 正常</span>
+<span class="badge warn">3–4 天 注意</span>
+<span class="badge slow">5–6 天 偏慢</span>
+<span class="badge late">≥7 天 嚴重延誤</span>
+｜ WD 編號超過 2 個工作天未掛網即觸發 🚨 警示通知</div>
+</div></body></html>
