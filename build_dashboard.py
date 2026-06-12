@@ -86,7 +86,8 @@ def main():
     print(json.dumps({
         "pending": len(pending),
         "done": len(done),
-        "overdue_wd": [{"id": r["id"], "title": r["title"], "days": r["days"]} for r in overdue_wd],
+        "overdue_wd": [{"id": r["id"], "title": r["title"], "days": r["days"],
+                        "verify_done": (r.get("verify_done") or "")[:10]} for r in overdue_wd],
     }, ensure_ascii=False))
 
 
