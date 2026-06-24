@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-23T11:30:50+08:00",
+  "last_checked": "2026-06-24T21:00:00+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -585,7 +585,114 @@
     "WD19-036-0101": {
       "id": "WD19-036-0101",
       "title": "佛說十善業道經講記節要",
-      "verify_done": "2026-06-22 10:57:56"
+      "verify_done": "2026-06-22 10:57:56",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "12-045-0764": {
+      "id": "12-045-0764",
+      "title": "華嚴經講述菁華",
+      "verify_done": "2026-06-23 15:19:14",
+      "upload_created": "2026-06-23 16:57:22",
+      "upload_done": "2026-06-23 16:57:25"
+    },
+    "WD20-064-0692": {
+      "id": "WD20-064-0692",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:13:25",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0693": {
+      "id": "WD20-064-0693",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:13:37",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0694": {
+      "id": "WD20-064-0694",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:13:51",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0696": {
+      "id": "WD20-064-0696",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:14:11",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0697": {
+      "id": "WD20-064-0697",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:14:21",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0698": {
+      "id": "WD20-064-0698",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:14:31",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0699": {
+      "id": "WD20-064-0699",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:16:48",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0700": {
+      "id": "WD20-064-0700",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:17:35",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0701": {
+      "id": "WD20-064-0701",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:17:48",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0702": {
+      "id": "WD20-064-0702",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:17:59",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0703": {
+      "id": "WD20-064-0703",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:18:13",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0704": {
+      "id": "WD20-064-0704",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:18:22",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0705": {
+      "id": "WD20-064-0705",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-23 15:18:35",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "65-211-0001": {
+      "id": "65-211-0001",
+      "title": "提倡傳統文化精神 祭祖大典逾五千人參與新聞報導",
+      "verify_done": null,
+      "upload_created": "2026-06-24 13:42:49",
+      "upload_done": "2026-06-24 13:42:50"
     }
   }
 }
