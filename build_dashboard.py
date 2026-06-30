@@ -23,6 +23,15 @@ OUT = BASE / "index.html"
 
 WD_OVERDUE_LIMIT = 2  # wd 編號允許的工作天數
 
+# 依首播日排程掛網的節目：驗檔完成後依「首播日」才掛網，驗檔→掛網本就間隔很久，
+# 不適用「驗檔後 2 個工作天」逾期判定，故排除追蹤（依標題關鍵字比對）。
+PREMIERE_TITLE_KEYWORDS = ["群書治要", "佛說十善業道經講記節要"]
+
+
+def is_premiere(title) -> bool:
+    t = title or ""
+    return any(k in t for k in PREMIERE_TITLE_KEYWORDS)
+
 
 def business_days(start: date, end: date) -> int:
     """計算 (start, end] 之間的工作天數，週六日不算。end <= start 回傳 0。"""
@@ -67,6 +76,7 @@ def main():
             continue
         row = dict(item)
         row["is_wd"] = item["id"].upper().startswith("WD")
+        row["premiere"] = is_premiere(item.get("title"))
         if u:
             row["days"] = business_days(v.date(), u.date())
             row["status"] = "done"
@@ -74,7 +84,9 @@ def main():
         else:
             row["days"] = business_days(v.date(), today)
             row["status"] = "pending"
-            row["overdue_wd"] = row["is_wd"] and row["days"] > WD_OVERDUE_LIMIT
+            # 依首播日掛網的節目不計逾期
+            row["overdue_wd"] = (row["is_wd"] and row["days"] > WD_OVERDUE_LIMIT
+                                 and not row["premiere"])
             pending.append(row)
 
     pending.sort(key=lambda r: (-r["days"], r["id"]))
@@ -95,6 +107,16 @@ def render(pending, done, overdue_wd, data):
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
 
     def row_html(r):
+        # 依首播日掛網且尚未掛網 → 中性顯示，不以工作天判逾期
+        if r.get("premiere") and r["status"] == "pending":
+            wd_mark = '<span class="wdtag">WD</span>' if r["is_wd"] else ""
+            return ('<tr class="lv-prem">'
+                    f'<td class="id">{r["id"]}{wd_mark} <span class="premtag">📅 依首播日掛網</span></td>'
+                    f'<td>{r.get("title") or ""}</td>'
+                    f'<td>{(r.get("verify_done") or "")[:16]}</td>'
+                    '<td><span class="prem">⏳ 待首播日掛網</span></td>'
+                    '<td class="num">—</td>'
+                    '<td>依首播日</td></tr>')
         cls = level_of(r["days"])
         badge = f'<span class="badge {cls}">{r["days"]} 天</span>'
         wd_mark = '<span class="wdtag">WD</span>' if r["is_wd"] else ""
@@ -142,6 +164,9 @@ th{background:#37474f;color:#fff;font-size:13px;padding:10px 12px;text-align:lef
 td{padding:10px 12px;font-size:14px;border-top:1px solid #eceff1}
 tr.lv-ok{background:var(--ok-bg)}tr.lv-warn{background:var(--warn-bg)}
 tr.lv-slow{background:var(--slow-bg)}tr.lv-late{background:var(--late-bg)}
+tr.lv-prem{background:#eef2f7}
+.premtag{background:#546e7a;color:#fff;border-radius:4px;font-size:11px;padding:1px 6px;margin-left:6px;vertical-align:1px}
+.prem{color:#546e7a;font-weight:700}
 td.id{font-weight:700;white-space:nowrap}
 td.num{text-align:center}
 .badge{display:inline-block;min-width:52px;text-align:center;padding:3px 10px;border-radius:99px;color:#fff;font-weight:700;font-size:13px}
@@ -177,7 +202,8 @@ td.num{text-align:center}
 <span class="badge warn">3–4 天 注意</span>
 <span class="badge slow">5–6 天 偏慢</span>
 <span class="badge late">≥7 天 嚴重延誤</span>
-｜ WD 編號超過 2 個工作天未掛網即觸發 🚨 警示通知</div>
+｜ WD 編號超過 2 個工作天未掛網即觸發 🚨 警示通知
+<br>📅 <b>依首播日掛網</b>（群書治要３６Ｏ講記、佛說十善業道經講記節要）依排程首播日掛網，不追蹤驗檔→掛網工作天、不計逾期。</div>
 </div></body></html>"""
 
 
