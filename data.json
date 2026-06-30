@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-29T15:31:12+08:00",
+  "last_checked": "2026-06-30T12:35:40+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -747,8 +747,8 @@
       "id": "12-045-0768",
       "title": "華嚴經講述菁華",
       "verify_done": "2026-06-29 11:28:37",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-06-29 15:54:50",
+      "upload_done": "2026-06-29 15:54:54"
     },
     "WD20-064-0695": {
       "id": "WD20-064-0695",
@@ -761,8 +761,8 @@
       "id": "12-017-1128",
       "title": "大方廣佛華嚴經",
       "verify_done": "2026-06-29 11:32:11",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-06-29 16:01:50",
+      "upload_done": "2026-06-29 16:01:54"
     }
   }
 }
