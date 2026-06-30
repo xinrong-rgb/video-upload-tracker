@@ -25,7 +25,7 @@ WD_OVERDUE_LIMIT = 2  # wd 編號允許的工作天數
 
 # 依首播日排程掛網的節目：驗檔完成後依「首播日」才掛網，驗檔→掛網本就間隔很久，
 # 不適用「驗檔後 2 個工作天」逾期判定，故排除追蹤（依標題關鍵字比對）。
-PREMIERE_TITLE_KEYWORDS = ["群書治要", "佛說十善業道經講記節要"]
+PREMIERE_TITLE_KEYWORDS = ["群書治要", "佛說十善業道經講記節要", "現代因果報應錄", "淨宗十三祖"]
 
 
 def is_premiere(title) -> bool:
@@ -107,14 +107,18 @@ def render(pending, done, overdue_wd, data):
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
 
     def row_html(r):
-        # 依首播日掛網且尚未掛網 → 中性顯示，不以工作天判逾期
-        if r.get("premiere") and r["status"] == "pending":
+        # 依首播日掛網 → 中性顯示，不以工作天判逾期/延誤（待掛網與已完成皆適用）
+        if r.get("premiere"):
             wd_mark = '<span class="wdtag">WD</span>' if r["is_wd"] else ""
+            if r["status"] == "done":
+                status_cell = "✅ " + (r.get("upload_done") or "")[:16]
+            else:
+                status_cell = '<span class="prem">⏳ 待首播日掛網</span>'
             return ('<tr class="lv-prem">'
                     f'<td class="id">{r["id"]}{wd_mark} <span class="premtag">📅 依首播日掛網</span></td>'
                     f'<td>{r.get("title") or ""}</td>'
                     f'<td>{(r.get("verify_done") or "")[:16]}</td>'
-                    '<td><span class="prem">⏳ 待首播日掛網</span></td>'
+                    f'<td>{status_cell}</td>'
                     '<td class="num">—</td>'
                     '<td>依首播日</td></tr>')
         cls = level_of(r["days"])
@@ -203,7 +207,7 @@ td.num{text-align:center}
 <span class="badge slow">5–6 天 偏慢</span>
 <span class="badge late">≥7 天 嚴重延誤</span>
 ｜ WD 編號超過 2 個工作天未掛網即觸發 🚨 警示通知
-<br>📅 <b>依首播日掛網</b>（群書治要３６Ｏ講記、佛說十善業道經講記節要）依排程首播日掛網，不追蹤驗檔→掛網工作天、不計逾期。</div>
+<br>📅 <b>依首播日掛網</b>（群書治要３６Ｏ講記、佛說十善業道經講記節要、現代因果報應錄、淨宗十三祖）依排程首播日掛網，不追蹤驗檔→掛網工作天、不計逾期/延誤。</div>
 </div></body></html>"""
 
 
