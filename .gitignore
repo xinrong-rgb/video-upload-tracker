@@ -1,3 +1,6 @@
 # 金鑰絕不進公開 repo
 config.json
 *.token
+
+# 系統檔
+.DS_Store
