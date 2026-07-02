@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-30T12:35:40+08:00",
+  "last_checked": "2026-07-02T14:08:44+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -600,22 +600,22 @@
       "id": "WD20-064-0692",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-06-23 15:13:25",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-01 14:04:38",
+      "upload_done": "2026-07-01 14:04:39"
     },
     "WD20-064-0693": {
       "id": "WD20-064-0693",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-06-23 15:13:37",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-01 14:04:45",
+      "upload_done": "2026-07-01 14:04:46"
     },
     "WD20-064-0694": {
       "id": "WD20-064-0694",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-06-23 15:13:51",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-01 14:04:56",
+      "upload_done": "2026-07-01 14:04:54"
     },
     "WD20-064-0696": {
       "id": "WD20-064-0696",
@@ -754,8 +754,8 @@
       "id": "WD20-064-0695",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-06-29 11:30:23",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-01 14:05:04",
+      "upload_done": "2026-07-01 14:05:02"
     },
     "12-017-1128": {
       "id": "12-017-1128",
@@ -763,6 +763,251 @@
       "verify_done": "2026-06-29 11:32:11",
       "upload_created": "2026-06-29 16:01:50",
       "upload_done": "2026-06-29 16:01:54"
+    },
+    "WD20-053-0097": {
+      "id": "WD20-053-0097",
+      "title": "緇門崇行錄淺述",
+      "verify_done": "2023-10-24 10:02:14",
+      "upload_created": "2026-07-02 13:49:15",
+      "upload_done": "2026-07-02 13:49:12"
+    },
+    "12-017-1129": {
+      "id": "12-017-1129",
+      "title": "大方廣佛華嚴經",
+      "verify_done": "2026-07-02 11:10:10",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD32-219-0001": {
+      "id": "WD32-219-0001",
+      "title": "西班牙淨宗學會開示與問答",
+      "verify_done": "2026-07-02 11:09:12",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD19-038-0002": {
+      "id": "WD19-038-0002",
+      "title": "十善業道經大意",
+      "verify_done": "2026-07-01 11:35:46",
+      "upload_created": "2026-07-02 10:43:24",
+      "upload_done": "2026-07-02 10:43:22"
+    },
+    "WD19-038-0001": {
+      "id": "WD19-038-0001",
+      "title": "十善業道經大意",
+      "verify_done": "2026-07-01 11:35:35",
+      "upload_created": "2026-07-02 10:43:11",
+      "upload_done": "2026-07-02 10:43:13"
+    },
+    "WD32-225-0001": {
+      "id": "WD32-225-0001",
+      "title": "日本華藏淨宗學會 義工會議講話",
+      "verify_done": "2026-07-01 11:33:11",
+      "upload_created": "2026-07-02 10:43:02",
+      "upload_done": "2026-07-02 10:43:04"
+    },
+    "68-006-0010": {
+      "id": "68-006-0010",
+      "title": "《驚險六道‧幸好念佛》",
+      "verify_done": null,
+      "upload_created": "2026-06-03 15:05:22",
+      "upload_done": "2026-07-01 16:31:45"
+    },
+    "WD20-064-0691": {
+      "id": "WD20-064-0691",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-10 14:35:03",
+      "upload_created": "2026-07-01 14:04:30",
+      "upload_done": "2026-07-01 14:04:31"
+    },
+    "WD20-064-0690": {
+      "id": "WD20-064-0690",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-10 14:34:53",
+      "upload_created": "2026-07-01 14:04:19",
+      "upload_done": "2026-07-01 14:04:22"
+    },
+    "WD20-064-0689": {
+      "id": "WD20-064-0689",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-10 14:34:36",
+      "upload_created": "2026-07-01 14:04:11",
+      "upload_done": "2026-07-01 14:04:13"
+    },
+    "WD20-064-0688": {
+      "id": "WD20-064-0688",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-10 14:34:27",
+      "upload_created": "2026-07-01 14:04:01",
+      "upload_done": "2026-07-01 14:04:02"
+    },
+    "WD20-064-0687": {
+      "id": "WD20-064-0687",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-10 14:34:17",
+      "upload_created": "2026-07-01 14:03:54",
+      "upload_done": "2026-07-01 14:03:55"
+    },
+    "WD20-064-0686": {
+      "id": "WD20-064-0686",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-06-10 14:34:08",
+      "upload_created": "2026-07-01 14:03:44",
+      "upload_done": "2026-07-01 14:03:45"
+    },
+    "12-045-0769": {
+      "id": "12-045-0769",
+      "title": "華嚴經講述菁華",
+      "verify_done": "2026-07-01 11:47:39",
+      "upload_created": "2026-07-01 13:58:53",
+      "upload_done": "2026-07-01 13:58:57"
+    },
+    "12-045-0770": {
+      "id": "12-045-0770",
+      "title": "華嚴經講述菁華",
+      "verify_done": "2026-07-01 11:47:28",
+      "upload_created": "2026-07-01 13:58:28",
+      "upload_done": "2026-07-01 13:58:33"
+    },
+    "WD29-006-0150": {
+      "id": "WD29-006-0150",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:45:21",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0149": {
+      "id": "WD29-006-0149",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:45:10",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0148": {
+      "id": "WD29-006-0148",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:44:58",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0147": {
+      "id": "WD29-006-0147",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:44:45",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0146": {
+      "id": "WD29-006-0146",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:43:54",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0145": {
+      "id": "WD29-006-0145",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:44:07",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0144": {
+      "id": "WD29-006-0144",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:43:45",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0143": {
+      "id": "WD29-006-0143",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:43:36",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0142": {
+      "id": "WD29-006-0142",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:43:27",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0141": {
+      "id": "WD29-006-0141",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-07-01 11:43:02",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "02-037-0331_mn": {
+      "id": "02-037-0331_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0332_mn": {
+      "id": "02-037-0332_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0333_mn": {
+      "id": "02-037-0333_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0334_mn": {
+      "id": "02-037-0334_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0335_mn": {
+      "id": "02-037-0335_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0336_mn": {
+      "id": "02-037-0336_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0337_mn": {
+      "id": "02-037-0337_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0338_mn": {
+      "id": "02-037-0338_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0339_mn": {
+      "id": "02-037-0339_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
+    },
+    "02-037-0340_mn": {
+      "id": "02-037-0340_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-06-30 14:11:46",
+      "upload_done": "2026-06-30 14:12:00"
     }
   }
 }
