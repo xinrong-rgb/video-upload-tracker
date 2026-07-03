@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-03T05:26:07+08:00",
+  "last_checked": "2026-07-04T05:26:16+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -775,8 +775,8 @@
       "id": "12-017-1129",
       "title": "大方廣佛華嚴經",
       "verify_done": "2026-07-02 11:10:10",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 09:58:54",
+      "upload_done": "2026-07-03 09:58:59"
     },
     "WD32-219-0001": {
       "id": "WD32-219-0001",
@@ -873,71 +873,71 @@
       "id": "WD29-006-0150",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:45:21",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:28:08",
+      "upload_done": "2026-07-03 11:28:13"
     },
     "WD29-006-0149": {
       "id": "WD29-006-0149",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:45:10",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:27:52",
+      "upload_done": "2026-07-03 11:27:55"
     },
     "WD29-006-0148": {
       "id": "WD29-006-0148",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:44:58",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:27:29",
+      "upload_done": "2026-07-03 11:27:33"
     },
     "WD29-006-0147": {
       "id": "WD29-006-0147",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:44:45",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:27:17",
+      "upload_done": "2026-07-03 11:27:20"
     },
     "WD29-006-0146": {
       "id": "WD29-006-0146",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:43:54",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:26:39",
+      "upload_done": "2026-07-03 11:26:42"
     },
     "WD29-006-0145": {
       "id": "WD29-006-0145",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:44:07",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:26:57",
+      "upload_done": "2026-07-03 11:27:01"
     },
     "WD29-006-0144": {
       "id": "WD29-006-0144",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:43:45",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:26:23",
+      "upload_done": "2026-07-03 11:26:27"
     },
     "WD29-006-0143": {
       "id": "WD29-006-0143",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:43:36",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:25:58",
+      "upload_done": "2026-07-03 11:26:02"
     },
     "WD29-006-0142": {
       "id": "WD29-006-0142",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:43:27",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:25:38",
+      "upload_done": "2026-07-03 11:25:42"
     },
     "WD29-006-0141": {
       "id": "WD29-006-0141",
       "title": "太上感應篇摘錄",
       "verify_done": "2026-07-01 11:43:02",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-03 11:25:00",
+      "upload_done": "2026-07-03 11:25:04"
     },
     "02-037-0331_mn": {
       "id": "02-037-0331_mn",
@@ -1008,6 +1008,104 @@
       "verify_done": null,
       "upload_created": "2026-06-30 14:11:46",
       "upload_done": "2026-06-30 14:12:00"
+    },
+    "62-346-0002": {
+      "id": "62-346-0002",
+      "title": "2026澳洲皇家布里斯本技術學院護國息災三時繫念法會",
+      "verify_done": "2026-07-03 17:23:57",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "62-346-0001": {
+      "id": "62-346-0001",
+      "title": "2026澳洲皇家布里斯本技術學院護國息災三時繫念法會",
+      "verify_done": "2026-07-03 17:23:46",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0717": {
+      "id": "WD20-064-0717",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:40:25",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0715": {
+      "id": "WD20-064-0715",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:40:07",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0716": {
+      "id": "WD20-064-0716",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:39:57",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0714": {
+      "id": "WD20-064-0714",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:39:48",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0713": {
+      "id": "WD20-064-0713",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:39:26",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0712": {
+      "id": "WD20-064-0712",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:39:14",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0711": {
+      "id": "WD20-064-0711",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:38:43",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0710": {
+      "id": "WD20-064-0710",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:38:33",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0709": {
+      "id": "WD20-064-0709",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:36:47",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0708": {
+      "id": "WD20-064-0708",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:36:38",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0707": {
+      "id": "WD20-064-0707",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:36:28",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0706": {
+      "id": "WD20-064-0706",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-03 11:36:17",
+      "upload_created": null,
+      "upload_done": null
     }
   }
 }
