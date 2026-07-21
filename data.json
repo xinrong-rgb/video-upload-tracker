@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-21T05:26:35.845389+08:00",
+  "last_checked": "2026-07-22T05:25:27.213999+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -1673,6 +1673,48 @@
       "verify_done": "2026-01-30 17:02:05",
       "upload_created": "2026-07-17 09:31:54",
       "upload_done": "2026-07-17 09:31:55"
+    },
+    "12-045-0785": {
+      "id": "12-045-0785",
+      "title": "華嚴經講述菁華",
+      "verify_done": "2026-07-21 15:21:59",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "12-045-0784": {
+      "id": "12-045-0784",
+      "title": "華嚴經講述菁華",
+      "verify_done": "2026-07-21 15:21:51",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "12-045-0783": {
+      "id": "12-045-0783",
+      "title": "華嚴經講述菁華",
+      "verify_done": "2026-07-21 15:21:41",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "12-045-0782": {
+      "id": "12-045-0782",
+      "title": "華嚴經講述菁華",
+      "verify_done": "2026-07-21 15:21:30",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "12-045-0781": {
+      "id": "12-045-0781",
+      "title": "華嚴經講述菁華",
+      "verify_done": "2026-07-21 15:21:20",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "68-013-0010": {
+      "id": "68-013-0010",
+      "title": "淨宗十三祖",
+      "verify_done": "2026-07-21 09:57:33",
+      "upload_created": null,
+      "upload_done": null
     }
   }
 }
