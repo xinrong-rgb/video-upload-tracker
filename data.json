@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-24T05:26:50.201179+08:00",
+  "last_checked": "2026-07-25T05:26:59.474179+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -1027,50 +1027,50 @@
       "id": "WD20-064-0717",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-03 11:40:25",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:37:10",
+      "upload_done": "2026-07-24 11:37:13"
     },
     "WD20-064-0715": {
       "id": "WD20-064-0715",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-03 11:40:07",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:36:58",
+      "upload_done": "2026-07-24 11:37:00"
     },
     "WD20-064-0716": {
       "id": "WD20-064-0716",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-03 11:39:57",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:37:04",
+      "upload_done": "2026-07-24 11:37:06"
     },
     "WD20-064-0714": {
       "id": "WD20-064-0714",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-03 11:39:48",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:36:51",
+      "upload_done": "2026-07-24 11:36:53"
     },
     "WD20-064-0713": {
       "id": "WD20-064-0713",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-03 11:39:26",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:36:44",
+      "upload_done": "2026-07-24 11:36:46"
     },
     "WD20-064-0712": {
       "id": "WD20-064-0712",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-03 11:39:14",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:36:37",
+      "upload_done": "2026-07-24 11:36:39"
     },
     "WD20-064-0711": {
       "id": "WD20-064-0711",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-03 11:38:43",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:35:31",
+      "upload_done": "2026-07-24 11:35:32"
     },
     "WD20-064-0710": {
       "id": "WD20-064-0710",
@@ -1545,22 +1545,22 @@
       "id": "WD20-064-0718",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-15 14:52:11",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:37:20",
+      "upload_done": "2026-07-24 11:37:21"
     },
     "WD20-064-0719": {
       "id": "WD20-064-0719",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-15 14:52:21",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:37:28",
+      "upload_done": "2026-07-24 11:37:29"
     },
     "WD20-064-0720": {
       "id": "WD20-064-0720",
       "title": "群書治要３６Ｏ講記",
       "verify_done": "2026-07-15 14:52:36",
-      "upload_created": null,
-      "upload_done": null
+      "upload_created": "2026-07-24 11:37:33",
+      "upload_done": "2026-07-24 11:37:35"
     },
     "WD20-064-0721": {
       "id": "WD20-064-0721",
@@ -1755,6 +1755,153 @@
       "verify_done": "2026-06-11 11:37:04",
       "upload_created": "2026-07-23 14:51:04",
       "upload_done": "2026-07-23 14:51:05"
+    },
+    "61-277-0001": {
+      "id": "61-277-0001",
+      "title": "普迴向真言、吉祥偈",
+      "verify_done": null,
+      "upload_created": "2026-07-24 14:53:27",
+      "upload_done": "2026-07-24 14:53:26"
+    },
+    "61-276-0001": {
+      "id": "61-276-0001",
+      "title": "南無阿彌陀佛佛號 (慢板)",
+      "verify_done": null,
+      "upload_created": "2026-07-24 14:53:18",
+      "upload_done": "2026-07-24 14:53:19"
+    },
+    "61-275-0001": {
+      "id": "61-275-0001",
+      "title": "南無阿彌陀佛佛號 (中板)",
+      "verify_done": null,
+      "upload_created": "2026-07-24 14:53:08",
+      "upload_done": "2026-07-24 14:53:10"
+    },
+    "61-274-0001": {
+      "id": "61-274-0001",
+      "title": "阿彌陀佛佛號 (四字五音慢板)",
+      "verify_done": null,
+      "upload_created": "2026-07-24 14:53:02",
+      "upload_done": "2026-07-24 14:52:59"
+    },
+    "61-273-0001": {
+      "id": "61-273-0001",
+      "title": "阿彌陀佛佛號 (四字五音中板)",
+      "verify_done": null,
+      "upload_created": "2026-07-24 14:52:52",
+      "upload_done": "2026-07-24 14:52:51"
+    },
+    "61-272-0001": {
+      "id": "61-272-0001",
+      "title": "阿彌陀佛佛號 (四字五音快板)",
+      "verify_done": null,
+      "upload_created": "2026-07-24 14:52:46",
+      "upload_done": "2026-07-24 14:52:47"
+    },
+    "68-012-0026": {
+      "id": "68-012-0026",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-07-24 10:57:26",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "68-012-0025": {
+      "id": "68-012-0025",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-07-24 10:57:15",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "68-012-0024": {
+      "id": "68-012-0024",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-07-24 10:57:06",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "68-012-0023": {
+      "id": "68-012-0023",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-07-24 10:56:55",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "68-012-0022": {
+      "id": "68-012-0022",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-07-24 10:56:45",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0733": {
+      "id": "WD20-064-0733",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-24 10:54:05",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0732": {
+      "id": "WD20-064-0732",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-24 10:53:52",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0731": {
+      "id": "WD20-064-0731",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-24 10:53:41",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0730": {
+      "id": "WD20-064-0730",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-24 10:53:30",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0729": {
+      "id": "WD20-064-0729",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-24 10:53:12",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0728": {
+      "id": "WD20-064-0728",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-24 10:53:01",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0727": {
+      "id": "WD20-064-0727",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-24 10:52:52",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0726": {
+      "id": "WD20-064-0726",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-07-24 10:52:42",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD19-036-0106": {
+      "id": "WD19-036-0106",
+      "title": "佛說十善業道經講記節要",
+      "verify_done": "2026-07-24 10:51:39",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD19-036-0105": {
+      "id": "WD19-036-0105",
+      "title": "佛說十善業道經講記節要",
+      "verify_done": "2026-07-24 10:51:28",
+      "upload_created": null,
+      "upload_done": null
     }
   }
 }
