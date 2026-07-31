@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-31T05:27:04+08:00",
+  "last_checked": "2026-08-01T05:27:14+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -1970,6 +1970,48 @@
       "id": "WD32-007-0562",
       "title": "悟道法師晨間講話",
       "verify_done": "2026-07-30 11:40:35",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD32-007-0569": {
+      "id": "WD32-007-0569",
+      "title": "悟道法師晨間講話",
+      "verify_done": "2026-07-31 16:01:26",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD32-007-0568": {
+      "id": "WD32-007-0568",
+      "title": "悟道法師晨間講話",
+      "verify_done": "2026-07-31 16:01:14",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD32-007-0567": {
+      "id": "WD32-007-0567",
+      "title": "悟道法師晨間講話",
+      "verify_done": "2026-07-31 15:59:10",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD32-007-0566": {
+      "id": "WD32-007-0566",
+      "title": "悟道法師晨間講話",
+      "verify_done": "2026-07-31 15:59:00",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD32-007-0565": {
+      "id": "WD32-007-0565",
+      "title": "悟道法師晨間講話",
+      "verify_done": "2026-07-31 15:58:47",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD19-036-0108": {
+      "id": "WD19-036-0108",
+      "title": "佛說十善業道經講記節要",
+      "verify_done": "2026-07-31 11:55:20",
       "upload_created": null,
       "upload_done": null
     }
