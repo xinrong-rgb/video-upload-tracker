@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-05T05:25:41+08:00",
+  "last_checked": "2026-08-06T05:26:06+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -2077,6 +2077,118 @@
       "verify_done": null,
       "upload_created": "2026-08-04 16:29:26",
       "upload_done": "2026-08-04 16:29:28"
+    },
+    "WD20-064-0749": {
+      "id": "WD20-064-0749",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:46:14",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0748": {
+      "id": "WD20-064-0748",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:46:04",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0747": {
+      "id": "WD20-064-0747",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:45:52",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0745": {
+      "id": "WD20-064-0745",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:45:40",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0746": {
+      "id": "WD20-064-0746",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:45:30",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0744": {
+      "id": "WD20-064-0744",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:45:19",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0743": {
+      "id": "WD20-064-0743",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:45:05",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0742": {
+      "id": "WD20-064-0742",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:44:55",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0741": {
+      "id": "WD20-064-0741",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:44:45",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0740": {
+      "id": "WD20-064-0740",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:44:35",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0739": {
+      "id": "WD20-064-0739",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:44:19",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0738": {
+      "id": "WD20-064-0738",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:44:10",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0737": {
+      "id": "WD20-064-0737",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:44:01",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0736": {
+      "id": "WD20-064-0736",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:43:51",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0735": {
+      "id": "WD20-064-0735",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:43:39",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0734": {
+      "id": "WD20-064-0734",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-05 15:43:29",
+      "upload_created": null,
+      "upload_done": null
     }
   }
 }
