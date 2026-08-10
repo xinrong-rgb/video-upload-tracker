@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-10T05:25:41+08:00",
+  "last_checked": "2026-08-11T05:25:25+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -2266,6 +2266,34 @@
       "verify_done": "2026-08-07 17:26:11",
       "upload_created": "2026-08-07 17:37:14",
       "upload_done": "2026-08-07 17:37:17"
+    },
+    "WD02-025-0019": {
+      "id": "WD02-025-0019",
+      "title": "無量壽經選講",
+      "verify_done": "2026-08-10 10:49:31",
+      "upload_created": "2026-08-10 15:42:30",
+      "upload_done": "2026-08-10 15:42:27"
+    },
+    "WD32-007-0571": {
+      "id": "WD32-007-0571",
+      "title": "悟道法師晨間講話",
+      "verify_done": "2026-08-10 10:48:39",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD32-007-0572": {
+      "id": "WD32-007-0572",
+      "title": "悟道法師晨間講話",
+      "verify_done": "2026-08-10 10:39:23",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD32-007-0570": {
+      "id": "WD32-007-0570",
+      "title": "悟道法師晨間講話",
+      "verify_done": "2026-08-10 10:39:04",
+      "upload_created": null,
+      "upload_done": null
     }
   }
 }
