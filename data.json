@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-11T05:25:25+08:00",
+  "last_checked": "2026-08-12T05:25:28+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -2292,6 +2292,20 @@
       "id": "WD32-007-0570",
       "title": "悟道法師晨間講話",
       "verify_done": "2026-08-10 10:39:04",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "68-012-0027": {
+      "id": "68-012-0027",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-08-11 16:07:32",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "68-012-0028": {
+      "id": "68-012-0028",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-08-11 16:07:59",
       "upload_created": null,
       "upload_done": null
     }
