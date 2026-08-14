@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-14T09:02:37+08:00",
+  "last_checked": "2026-08-15T05:26:30+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -2341,6 +2341,83 @@
       "id": "68-013-0012",
       "title": "淨宗十三祖",
       "verify_done": "2026-08-13 09:36:14",
+      "upload_created": "2026-08-14 17:41:20",
+      "upload_done": "2026-08-14 17:41:17"
+    },
+    "WD19-036-0097": {
+      "id": "WD19-036-0097",
+      "title": "佛說十善業道經講記節要",
+      "verify_done": "2026-05-12 15:21:54",
+      "upload_created": "2026-08-14 17:42:30",
+      "upload_done": "2026-08-14 17:42:32"
+    },
+    "68-011-0010": {
+      "id": "68-011-0010",
+      "title": "《閱微草堂筆記》",
+      "verify_done": null,
+      "upload_created": "2026-08-14 17:41:59",
+      "upload_done": "2026-08-14 17:42:01"
+    },
+    "68-012-0017": {
+      "id": "68-012-0017",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-06-11 11:42:09",
+      "upload_created": "2026-08-14 17:41:39",
+      "upload_done": "2026-08-14 17:41:42"
+    },
+    "WD20-064-0757": {
+      "id": "WD20-064-0757",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-14 09:52:00",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0756": {
+      "id": "WD20-064-0756",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-14 09:51:51",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0755": {
+      "id": "WD20-064-0755",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-14 09:51:42",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0754": {
+      "id": "WD20-064-0754",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-14 09:51:32",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0753": {
+      "id": "WD20-064-0753",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-14 09:51:19",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0752": {
+      "id": "WD20-064-0752",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-14 09:51:02",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0751": {
+      "id": "WD20-064-0751",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-14 09:50:53",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD20-064-0750": {
+      "id": "WD20-064-0750",
+      "title": "群書治要３６Ｏ講記",
+      "verify_done": "2026-08-14 09:50:13",
       "upload_created": null,
       "upload_done": null
     }
