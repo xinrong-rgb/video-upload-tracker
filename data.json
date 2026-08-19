@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-19T05:26:31+08:00",
+  "last_checked": "2026-08-20T05:22:10+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -2425,6 +2425,223 @@
       "id": "WD15-008-0138",
       "title": "金剛經講義節要",
       "verify_done": "2026-08-18 16:16:57",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "68-009-0290": {
+      "id": "68-009-0290",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 15:00:13",
+      "upload_done": "2026-08-19 15:00:14"
+    },
+    "68-009-0289": {
+      "id": "68-009-0289",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 15:00:00",
+      "upload_done": "2026-08-19 15:00:02"
+    },
+    "68-009-0288": {
+      "id": "68-009-0288",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 14:59:47",
+      "upload_done": "2026-08-19 14:59:50"
+    },
+    "68-009-0287": {
+      "id": "68-009-0287",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 14:59:29",
+      "upload_done": "2026-08-19 14:59:31"
+    },
+    "68-009-0286": {
+      "id": "68-009-0286",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 14:59:15",
+      "upload_done": "2026-08-19 14:59:17"
+    },
+    "68-009-0285": {
+      "id": "68-009-0285",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 14:58:46",
+      "upload_done": "2026-08-19 14:58:49"
+    },
+    "68-009-0284": {
+      "id": "68-009-0284",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 14:58:29",
+      "upload_done": "2026-08-19 14:58:31"
+    },
+    "68-009-0283": {
+      "id": "68-009-0283",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 14:58:18",
+      "upload_done": "2026-08-19 14:58:21"
+    },
+    "68-009-0282": {
+      "id": "68-009-0282",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 14:58:09",
+      "upload_done": "2026-08-19 14:58:12"
+    },
+    "68-009-0281": {
+      "id": "68-009-0281",
+      "title": "淨空法師嘉言錄",
+      "verify_done": null,
+      "upload_created": "2026-08-19 14:57:37",
+      "upload_done": "2026-08-19 14:57:39"
+    },
+    "WD29-006-0168": {
+      "id": "WD29-006-0168",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:40:31",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0170": {
+      "id": "WD29-006-0170",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:40:18",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0169": {
+      "id": "WD29-006-0169",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:40:09",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0167": {
+      "id": "WD29-006-0167",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:39:58",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0166": {
+      "id": "WD29-006-0166",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:38:46",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0165": {
+      "id": "WD29-006-0165",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:38:33",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0164": {
+      "id": "WD29-006-0164",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:34:58",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0163": {
+      "id": "WD29-006-0163",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:34:48",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0162": {
+      "id": "WD29-006-0162",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:34:38",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0161": {
+      "id": "WD29-006-0161",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:34:28",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0160": {
+      "id": "WD29-006-0160",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:34:09",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0159": {
+      "id": "WD29-006-0159",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:31:45",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0158": {
+      "id": "WD29-006-0158",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:31:33",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0157": {
+      "id": "WD29-006-0157",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:31:09",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0156": {
+      "id": "WD29-006-0156",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 11:29:05",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "55-249-0003": {
+      "id": "55-249-0003",
+      "title": "台灣同修中華文化傳承研討",
+      "verify_done": null,
+      "upload_created": "2026-08-19 11:15:48",
+      "upload_done": "2026-08-19 11:15:50"
+    },
+    "55-249-0002": {
+      "id": "55-249-0002",
+      "title": "台灣同修中華文化傳承研討",
+      "verify_done": null,
+      "upload_created": "2026-08-19 11:15:32",
+      "upload_done": "2026-08-19 11:15:35"
+    },
+    "WD29-006-0155": {
+      "id": "WD29-006-0155",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 10:46:21",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0154": {
+      "id": "WD29-006-0154",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 10:44:15",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0153": {
+      "id": "WD29-006-0153",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 10:44:01",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD15-008-0139": {
+      "id": "WD15-008-0139",
+      "title": "金剛經講義節要",
+      "verify_done": "2026-08-19 10:11:36",
       "upload_created": null,
       "upload_done": null
     }
