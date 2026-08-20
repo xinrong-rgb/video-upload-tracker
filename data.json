@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-20T05:22:10+08:00",
+  "last_checked": "2026-08-21T05:26:39+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -2642,6 +2642,48 @@
       "id": "WD15-008-0139",
       "title": "金剛經講義節要",
       "verify_done": "2026-08-19 10:11:36",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD19-036-0098": {
+      "id": "WD19-036-0098",
+      "title": "佛說十善業道經講記節要",
+      "verify_done": "2026-05-27 11:24:52",
+      "upload_created": "2026-08-20 13:37:21",
+      "upload_done": "2026-08-20 13:37:23"
+    },
+    "68-012-0018": {
+      "id": "68-012-0018",
+      "title": "現代因果報應錄",
+      "verify_done": "2026-06-11 11:42:19",
+      "upload_created": "2026-08-20 13:36:53",
+      "upload_done": "2026-08-20 13:36:55"
+    },
+    "WD07-001-0002": {
+      "id": "WD07-001-0002",
+      "title": "大佛頂首楞嚴經—觀世音菩薩耳根圓通章",
+      "verify_done": "2026-08-20 11:11:58",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD07-001-0001": {
+      "id": "WD07-001-0001",
+      "title": "大佛頂首楞嚴經—觀世音菩薩耳根圓通章",
+      "verify_done": "2026-08-20 11:11:45",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0152": {
+      "id": "WD29-006-0152",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 10:28:56",
+      "upload_created": null,
+      "upload_done": null
+    },
+    "WD29-006-0151": {
+      "id": "WD29-006-0151",
+      "title": "太上感應篇摘錄",
+      "verify_done": "2026-08-19 10:28:45",
       "upload_created": null,
       "upload_done": null
     }
