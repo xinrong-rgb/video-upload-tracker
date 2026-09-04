@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-04T05:27:13+08:00",
+  "last_checked": "2026-09-05T05:26:52+08:00",
   "items": {
     "68-012-0019": {
       "id": "68-012-0019",
@@ -3554,6 +3554,104 @@
       "verify_done": "2026-09-03 10:09:38",
       "upload_created": null,
       "upload_done": null
+    },
+    "02-037-0375_mn": {
+      "id": "02-037-0375_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:32:53",
+      "upload_done": "2026-09-04 16:32:57"
+    },
+    "02-037-0374_mn": {
+      "id": "02-037-0374_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:32:45",
+      "upload_done": "2026-09-04 16:32:46"
+    },
+    "02-037-0373_mn": {
+      "id": "02-037-0373_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:32:37",
+      "upload_done": "2026-09-04 16:32:40"
+    },
+    "02-037-0372_mn": {
+      "id": "02-037-0372_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:19:17",
+      "upload_done": "2026-09-04 16:19:20"
+    },
+    "02-037-0371_mn": {
+      "id": "02-037-0371_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:19:10",
+      "upload_done": "2026-09-04 16:19:13"
+    },
+    "02-037-0370_mn": {
+      "id": "02-037-0370_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:19:06",
+      "upload_done": "2026-09-04 16:19:07"
+    },
+    "02-037-0369_mn": {
+      "id": "02-037-0369_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:19:00",
+      "upload_done": "2026-09-04 16:19:01"
+    },
+    "02-037-0368_mn": {
+      "id": "02-037-0368_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:18:54",
+      "upload_done": "2026-09-04 16:18:56"
+    },
+    "02-037-0367_mn": {
+      "id": "02-037-0367_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:18:31",
+      "upload_done": "2026-09-04 16:18:34"
+    },
+    "02-037-0366_mn": {
+      "id": "02-037-0366_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:18:24",
+      "upload_done": "2026-09-04 16:18:26"
+    },
+    "02-037-0365_mn": {
+      "id": "02-037-0365_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:18:16",
+      "upload_done": "2026-09-04 16:18:18"
+    },
+    "02-037-0364_mn": {
+      "id": "02-037-0364_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:17:45",
+      "upload_done": "2026-09-04 16:17:47"
+    },
+    "02-037-0363_mn": {
+      "id": "02-037-0363_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:17:37",
+      "upload_done": "2026-09-04 16:17:39"
+    },
+    "02-037-0362_mn": {
+      "id": "02-037-0362_mn",
+      "title": "淨土大經科註",
+      "verify_done": null,
+      "upload_created": "2026-09-04 16:17:27",
+      "upload_done": "2026-09-04 16:17:30"
     }
   }
 }
