@@ -1,0 +1,5 @@
+# 公開 repo 白名單制（2026-09-14 起）：只放行加密後的 index.html
+# data.json、筆記、腳本、明文儀表板一律留在 vault，不進 GitHub
+/*
+!.gitignore
+!index.html
